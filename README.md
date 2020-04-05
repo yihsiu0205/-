@@ -15,6 +15,7 @@
 
  <a href="https://www.twitch.tv/directory/game/PLAYERUNKNOWN'S%20BATTLEGROUNDS">遊戲頻道觀看連結</a>
 
+
 <p>2.Rainbow Six</p>
 
 <img class="smaller-image" src="https://i.imgur.com/116lzx5.jpg">
@@ -24,4 +25,11 @@
 
  <a href="https://www.twitch.tv/directory/game/Tom%20Clancy's%20Rainbow%20Six%3A%20Siege">遊戲頻道觀看連結</a>
  
+ 
+ <p>3.Dead by Daylight</p>
+ 
+ <img class="smaller-image" src="https://i.imgur.com/Pr05iok.jpg>
+  
+ <p>每場遊戲有一名殺手與四名逃生者參加，依遊玩人數+1決定打開大門需要修好的發電機數量。扮演殺手的玩家負責找出逃生者，將他們擊倒後，抓起並掛在地圖中的鉤子獻祭，但期間其他逃生者可以救援被掛起來的人，若進入第二階段則無法自行脫鉤 。
+而參與遊戲逃生者須把地圖上出現的七個發電機修好五臺，可藉由門旁的開關打開大門逃生。同時地圖上具有窗戶、木板、櫃子等物件讓逃生者可以逃離或阻擋殺手的追擊，或者可以翻找木箱找尋有利生存的物品，若逃生者們不幸被殺到只剩一人，則地道的門會打開讓最後一人逃走。<
 </main>
