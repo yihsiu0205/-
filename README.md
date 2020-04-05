@@ -36,7 +36,7 @@
     <label for="PUBG"><input id="PUBG" type="checkbox" name="personality" value="PUBG"> PUBG</label>
     <label for="R6"><input id="R6" type="checkbox" name="personality" value="R6"> R6</label>
     <label for="DBD"><input id="DBD" type="checkbox" name="personality" value="DBD"> DBD</label><br>
-    <input type="text" placeholder="Here" required>
+    <input type="text" placeholder="其他遊戲" required>
     <button type="submit">送出</button>
   </form>
 </main>
