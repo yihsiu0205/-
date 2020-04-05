@@ -1,3 +1,4 @@
+<body bgcolor="#cccccc">
 <h2>三款有觀賞性的遊戲</h2>
 
 <style>
