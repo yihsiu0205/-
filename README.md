@@ -2,7 +2,7 @@
 
 <style>
   body {
-  background-color: FLORALWHITE;
+  background-color: white;
 }
   .smaller-image {
     width: 300px;
