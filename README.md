@@ -31,4 +31,12 @@
 而參與遊戲逃生者須把地圖上出現的七個發電機修好五臺，可藉由門旁的開關打開大門逃生。同時地圖上具有窗戶、木板、櫃子等物件讓逃生者可以逃離或阻擋殺手的追擊，或者可以翻找木箱找尋有利生存的物品，若逃生者們不幸被殺到只剩一人，則地道的門會打開讓最後一人逃走。</p>
 
  <a href="https://www.twitch.tv/directory/game/Dead%20by%20Daylight">DBD遊戲頻道觀看連結</a><hr/>
+ <form>
+    <p>哪個遊戲好看?</p>
+    <label for="PUBG"><input id="PUBG" type="checkbox" name="personality" value="PUBG"> PUBG</label>
+    <label for="R6"><input id="R6" type="checkbox" name="personality" value="R6"> R6</label>
+    <label for="DBD"><input id="DBD" type="checkbox" name="personality" value="DBD"> DBD</label><br>
+    <input type="text" placeholder="Here" required>
+    <button type="submit">送出</button>
+  </form>
 </main>
