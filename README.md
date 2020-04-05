@@ -1,4 +1,9 @@
 ## 三款有觀賞性的遊戲
+<style>
+  .smaller-image {
+    width: 100px;
+  }
+</style>
 
 1.PUBG
 <img src="https://i.imgur.com/0VbxEkb.jpg">
