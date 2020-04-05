@@ -2,7 +2,7 @@
 
 <style>
   body {
-  background-color: gray;
+  background-color: LIGHTBLUE;
 }
   .smaller-image {
     width: 300px;
