@@ -1,7 +1,7 @@
 ## 三款有觀賞性的遊戲
 
-You can use the [editor on GitHub](https://github.com/yihsiu0205/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+1.PUBG
+<img src="https://i.imgur.com/0VbxEkb.jpg">
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
