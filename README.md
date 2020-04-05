@@ -19,7 +19,7 @@
 
 <p>   這是一款<font color="blue">大逃殺</font>類寫實射擊遊戲。在每局比賽完結後，玩家能基於他們在比賽中的生存時間及傷害和殺死敵對玩家的數目，獲得相應的遊戲貨幣（Battle Point），而這些貨幣能購買適用於改變人物外表的道具。</p>
 
-<l>遊戲的其中一個地圖</l><br>
+<em>遊戲的其中一個地圖</l><em>
 <img class="small-image" src="https://i.imgur.com/aO1Cuxr.jpg"><br>
  <a href="https://www.twitch.tv/directory/game/PLAYERUNKNOWN'S%20BATTLEGROUNDS">PUBG遊戲頻道觀看連結</a><hr/>
 
@@ -41,7 +41,7 @@
  <p>    每場遊戲有<font color="blue">一名殺手與四名逃生者參加</font>，依遊玩人數+1決定打開大門需要修好的發電機數量。扮演殺手的玩家負責找出逃生者，將他們擊倒後，抓起並掛在地圖中的鉤子獻祭，但期間其他逃生者可以救援被掛起來的人，若進入第二階段則無法自行脫鉤 。
 而參與遊戲逃生者須把地圖上出現的七個發電機修好五臺，可藉由門旁的開關打開大門逃生。同時地圖上具有窗戶、木板、櫃子等物件讓逃生者可以逃離或阻擋殺手的追擊，或者可以翻找木箱找尋有利生存的物品，若逃生者們不幸被殺到只剩一人，則地道的門會打開讓最後一人逃走。</p>
 
-<l>遊戲殺手</l><br>
+<em>遊戲殺手</em><br>
 <img class="small-image" src="https://i.imgur.com/JcQgbhy.jpg"><br>
  <a href="https://www.twitch.tv/directory/game/Dead%20by%20Daylight">DBD遊戲頻道觀看連結</a><hr/>
  <form>
