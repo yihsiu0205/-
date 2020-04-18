@@ -52,4 +52,21 @@
     <input type="text" placeholder="其他遊戲" required>
     <button type="submit">送出</button>
   </form>
+  
+  <script>
+  $(document).ready(function() {
+    $("button").addClass("animated bounce");
+  });
+</script>
+
+<div class="container-fluid">
+  <h3 class="text-primary text-center">jQuery Playground</h3>
+  <div class="row">
+    <div class="col-xs-6">
+        <button class="btn btn-default target" id="PUBG">#target1</button>
+        <button class="btn btn-default target" id="R6">#target2</button>
+        <button class="btn btn-default target" id="DBD">#target3</button>
+      </div>
+    </div>
+</div>
 </main>
