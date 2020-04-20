@@ -63,7 +63,7 @@
   <h3 class="text-primary text-center">投出最好看的遊戲</h3>
   <div class="row">
     <div class="col-xs-6">
-        <button id="PUBG">PUBG</button>
+        <button onclick="PUBG">PUBG</button>
         <button id="R6">R6</button>
         <button id="DBD">DBD</button>
       </div>
