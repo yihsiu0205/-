@@ -53,7 +53,7 @@
     <button type="submit">送出</button>
   </form>
   
- <script>
+ <script language="javascript">
     function PUBG(){
     alert("您已為PUBG投下神聖的一票");
     }
