@@ -54,18 +54,18 @@
   </form>
   
  <script>
-  $(document).ready(function() {
-    $("PUBG").addClass("animated bounce");
-  });
+    function PUBG(){
+    alert("您已為PUBG投下神聖的一票");
+    }
 </script>
 
 <div class="container-fluid">
   <h3 class="text-primary text-center">投出最好看的遊戲</h3>
   <div class="row">
     <div class="col-xs-6">
-        <button class="btn btn-default target" id="PUBG">PUBG</button>
-        <button class="btn btn-default target" id="R6">R6</button>
-        <button class="btn btn-default target" id="DBD">DBD</button>
+        <button id="PUBG">PUBG</button>
+        <button id="R6">R6</button>
+        <button id="DBD">DBD</button>
       </div>
     </div>
 </div>
