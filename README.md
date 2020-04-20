@@ -52,7 +52,7 @@
     <input type="text" placeholder="其他遊戲" required>
     <button type="submit">送出</button>
   </form>
-  <p>----------------------------------------------------------------</p>
+  <p>-------------------------------------------------------------------------------------------------</p>
  <script language="javascript">
       function people(){
     alert("下次會再介紹實況主給您");
