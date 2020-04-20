@@ -52,16 +52,16 @@
     <input type="text" placeholder="其他遊戲" required>
     <button type="submit">送出</button>
   </form>
-  <em></em>
+  <p>----------------------------------------------------------------</p>
  <script language="javascript">
-    function people(){
+      function people(){
     alert("下次會再介紹實況主給您");
     }
       function moregame(){
     alert("也可以在上面的其他遊戲中填寫想知道的遊戲");
     }
       function video(){
-    alert("請期待下一次遊戲精華影片");
+    alert("請期待下一次的遊戲精華影片");
     }
 </script>
 <p>下次想知道的項目</p>
