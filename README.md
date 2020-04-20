@@ -59,7 +59,7 @@
     }
 </script>
 <p>
-     <button onclick="PUBG">PUBG</button>
+     <button onclick="PUBG()">PUBG</button>
      <button id="R6">R6</button>
      <button id="DBD">DBD</button>
 </p>
