@@ -44,23 +44,30 @@
 <em>遊戲殺手</em><br>
 <img class="small-image" src="https://i.imgur.com/JcQgbhy.jpg"><br>
  <a href="https://www.twitch.tv/directory/game/Dead%20by%20Daylight">DBD遊戲頻道觀看連結</a><hr/>
- <form>
+ <form><em>
     <p>哪個遊戲好看?</p>
     <label for="PUBG"><input id="PUBG" type="checkbox" name="personality" value="PUBG"> PUBG</label>
     <label for="R6"><input id="R6" type="checkbox" name="personality" value="R6"> R6</label>
     <label for="DBD"><input id="DBD" type="checkbox" name="personality" value="DBD"> DBD</label><br>
     <input type="text" placeholder="其他遊戲" required>
     <button type="submit">送出</button>
-  </form>
+  </em></form>
   
  <script language="javascript">
-    function PUBG(){
-    alert("您已為PUBG投下神聖的一票");
+    function people(){
+    alert("下次會再介紹實況主給您");
+    }
+      function moregame(){
+    alert("也可以在上面的其他遊戲中填寫想知道的遊戲");
+    }
+      function video(){
+    alert("請期待下一次遊戲精華影片");
     }
 </script>
+<p>下次想知道的項目</p>
 <p>
-     <button onclick="PUBG()">PUBG</button>
-     <button id="R6">R6</button>
-     <button id="DBD">DBD</button>
+     <button onclick="people()">實況主介紹</button>
+     <button onclick="moregame()">更多遊戲</button>
+     <button onclick="video">遊戲精華</button>
 </p>
 </main>
